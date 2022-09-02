@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="normalize.css">
+    <link rel="stylesheet" href="estilos.css">
+    <title>Carrito de Compras</title>
+</head>
+<body>
+     <!--CABEZERA TITULO Y BOTON PARA DISPOSITIVOS MOBILES-->
+    <header>
+        <h1>App Carrito de Compras</h1>
+        <div id="btnCarrito"class="btn-carrito"><span id="contadorCarrito"class="contador-carrito"></span></div>
+    </header>
+    <!--SECCION EN DONDE SE DESPLIEGAN LOS PRODUCTOS-->
+    <main id="principal">
+        <div id="mensaje"></div>
+        <h2>Lista de productos</h2>
+        <div class="contenedor-productos">
+        <div id="regresar"> </div>    
+        </div>
+    </main>
+    <!--SECCION EN DONDE SE DESPLIEGA EL CARRITO DE COMPRAS-->
+    <section id="seccion">
+        <h2>Carrito</h2>
+        <table >
+            <tr class="titulos">
+                <th class="col-1">Id</th>
+                <th class="col-2">Producto</th>
+                <th class="col-3"></th>
+                <th class="col-4">Cantidad</th>
+                <th class="col-5">$</th>
+            </tr>
+           
+        </table>
+    <!--SECCION DONDE SE DESPLIEGAN DINAMICAMENTE LOS PRODUCTOS AGREGADOS AL CARRITO-->
+        <div id="carrito">
+            
+            </div>
+        <div id="totales">
+            <p>Total productos</p>
+        </div>
+        
+        
+    </section>
+    
+    <script src="carrito.js"></script>
+</body>
+</html>

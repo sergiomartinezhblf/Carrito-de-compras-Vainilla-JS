@@ -1,0 +1,73 @@
+[
+    {
+      "nombre":"rueda para abdominales",
+      "imagen":"/assets/ruedaparaabdominales.jpg",
+      "descripcion":"Rueda abdominal de alta calidad ideal para ejercicios de abdomen",
+      "precio":200,
+      "id":1001
+    },
+    {
+        "nombre":"cuerda para saltar",
+        "imagen":"/assets/cuerdaparasaltar.jpg",
+        "descripcion":"Cuerda para saltar con rodamientos de bolas que aseguran una rotación de velocidad suave y rápida",
+        "precio":240,
+        "id":1002
+      },
+      {
+        "nombre":"hierro fundido pesa peso 16kg",
+        "imagen":"/assets/hierrofundidopesa.jpg",
+        "descripcion":"Hierro fundido sólido sin soldaduras, puntos débiles o costuras.",
+        "precio":240,
+        "id":1003
+      },
+      {
+        "nombre":"tapete de yoga",
+        "imagen":"/assets/tapeteyoga.jpg",
+        "descripcion":"Colchoneta para ejercicios de yoga hecha de TPE no tóxico y ecológico",
+        "precio":500,
+        "id":1004
+      },
+      {
+        "nombre":"guantes de gym",
+        "imagen":"/assets/guantesdegym.jpg",
+        "descripcion":"Guantes gimnasio con acolchonamiento extra y las capas de piel reforzada",
+        "precio":200,
+        "id":1005
+      },
+      {
+        "nombre":"pelota de yoga",
+        "imagen":"/assets/pelotayoga.jpg",
+        "descripcion":"Es ideal para yoga, pilates, estiramiento y entrenamiento de espalda y abdominales ",
+        "precio":300,
+        "id":1006
+      },
+      {
+        "nombre":"mancuernas 5lbs",
+        "imagen":"/assets/mancuernasdemano.jpg",
+        "descripcion":"Mancuernas de fundición sólida de alta calidad revestidas en goma",
+        "precio":500,
+        "id":1007
+      },
+      {
+        "nombre":"set de 5 bandas de resistencia",
+        "imagen":"/assets/bandas.jpg",
+        "descripcion":"Cada banda de resistencia está hecha de látex 100% natural de grado profesional",
+        "precio":250,
+        "id":1008
+      },
+      {
+        "nombre":"rodilleras deportivas",
+        "imagen":"/assets/rodilleras.jpg",
+        "descripcion":"Ofrecen un soporte muscular óptimo en entrenamientos y durante las actividades cotidianas casuales",
+        "precio":500,
+        "id":1009
+      },
+      {
+        "nombre":"red de baloncesto",
+        "imagen":"/assets/redbaloncesto.jpg",
+        "descripcion":"Red de baloncesto resistente que puede soportar tirones y colgados constantes",
+        "precio":180,
+        "id":1010
+      }
+      
+]
