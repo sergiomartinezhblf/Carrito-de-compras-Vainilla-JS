@@ -369,7 +369,7 @@ td{
         width: 60px;
         height: 60px;
         cursor: pointer;
-        background-image: url(/Assets/icons8-shopping-trolley-64.png);
+        background-image: url(./assets/icons8-shopping-trolley-64.png);
         background-position: center;
         background-size: 50px;
         background-repeat: no-repeat;
@@ -386,7 +386,7 @@ td{
         width: 60px;
         height: 60px;
         cursor: pointer;
-        background-image: url(/Assets/icons8-x-64.png);
+        background-image: url(./assets/icons8-x-64.png);
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -421,7 +421,7 @@ td{
         height: 60px;
         cursor: pointer;
         background-color: var(--primary-color);
-        background-image: url(/Assets/icons8-arriba-48.png);
+        background-image: url(./assets/icons8-arriba-48.png);
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
